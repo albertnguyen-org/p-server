@@ -1,0 +1,19 @@
+{
+  "name": "p-server",
+  "version": "1.0.0",
+  "description": "Portfolio Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "nodejs",
+    "RESTful"
+  ],
+  "author": "Albert",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
